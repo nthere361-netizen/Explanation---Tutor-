@@ -6,7 +6,7 @@
 
 This contains everything you need to run your app locally.
 
-View your app in AI Studio: https://ai.studio/apps/5434b042-850c-4832-8863-cc8fe8e4ef4e
+View your app in AI Studio: https://explanation-tutor.ai.studio
 
 ## Run Locally
 
